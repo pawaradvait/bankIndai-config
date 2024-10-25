@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 account:
-  message: "Welcome to EazyBank cards related QA Api's
+  message: "Welcome to bankindia cards related QA Api's 
 "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead -1 "
