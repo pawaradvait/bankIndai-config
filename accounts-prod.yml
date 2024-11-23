@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 account:
-  message: "Welcome to EazyBank cards related production APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "advait pawear - prod Lead -2 "
     email: "advait@eazybank.com"
